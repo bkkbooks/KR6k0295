@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6k0295/g/v1/juan/0
+seq: 0
+front:
+  text: 根本說一切有部毗柰耶犯相摘記凡例毗柰耶藏其文繁博被機至廣今以私臆簡其常應習誦省察者別錄一卷以便檢尋他人承用或病其闕略幸披律文詳為增訂有所正焉所錄者專宗律攝間有錄本律者冠以本律云三字標寫戒目亦依律攝所錄事相有與標目不相涉者仍彼原式併列其次所錄者以持犯戒相為主釋義之言亦小存錄編末附錄南海寄歸內法傳數節至為切要後之學者所宜詳覽專習四分律者宜準是編規式別集四分律犯相摘記依之行持檢尋良便歲次玄枵木槿榮月於西安蓮華寺校定根本說一切有部毗柰耶犯相摘記目錄第一章四波羅市迦法第二章十三僧伽伐尸沙法第三章二不定法第四章三十泥薩祇波逸底迦法第五章九十波逸底迦法第六章四波羅底提舍尼法第七章眾學法第八章七滅諍法附錄
+  hash: sha256:6ddd18d260857f77fc152d72589a45b1cae38e80d7802227500cf1d145c2f016
+  markers:
+  - {type: 其他, offset: 0, content: 凡例, id: KR6k0295_G_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 206, content: 目錄, id: KR6k0295_G_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 根本說一切有部毗柰耶犯相摘記
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2280.xml
+    old_id: G104n2280
+hash: sha256:d2f22d80525f7e02c1380de8feb7fa6978bba6d9fb7250ec423ba2247ab2708e

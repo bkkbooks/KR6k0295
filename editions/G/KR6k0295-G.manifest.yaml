@@ -1,0 +1,1558 @@
+canonical_identifier: bkk:krp/KR6k0295/G/v1
+canonical_location: https://kanripo.org/bkk/KR6k0295/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 根本說一切有部毗柰耶犯相摘記
+  identifiers:
+    krp: KR6k0295
+    cbeta: G104n2280
+    cbeta_old_id: G104n2280
+    authorityid: CA0008645
+    json_key: G2280
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2280.xml
+    old_id: G104n2280
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0295_000-G.yaml, hash: 'sha256:d2f22d80525f7e02c1380de8feb7fa6978bba6d9fb7250ec423ba2247ab2708e'}
+  - {seq: 1, filename: KR6k0295_001-G.yaml, hash: 'sha256:1e9801e4012bf5bf4cc6d6c63d5ee97aa0ad20795d9c1722199929c034d006f8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0295_000-G.markers.yaml, hash: 'sha256:8baa17321d29d4404a044f285d3104b26bfc3c70cb95d06c2f019bd6c4ba9cb9'}
+  - {seq: 1, role: markers, filename: assets/KR6k0295_001-G.markers.yaml, hash: 'sha256:21a0b1ca976bc75bd9b7c3b922b98b94bb8e6d6ee46557bc735796d4a0b76342'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0295_G_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0295_G_000-mulu-2
+    span:
+    - front
+    - 206
+    - 206
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 11022
+  label: 根本說一切有部毗柰耶犯相摘記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 第一章　四波羅市迦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 不淨行學處第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-3
+    span:
+    - body
+    - 33
+    - 33
+  label: 不與取學處第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-4
+    span:
+    - body
+    - 251
+    - 251
+  label: 斷人命學處第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-5
+    span:
+    - body
+    - 355
+    - 355
+  label: 妄說自得上人法學處第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-6
+    span:
+    - body
+    - 409
+    - 409
+  label: 第二章　十三僧伽伐尸沙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-7
+    span:
+    - body
+    - 420
+    - 420
+  label: 故泄精學處第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-8
+    span:
+    - body
+    - 427
+    - 427
+  label: 觸女學處第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-9
+    span:
+    - body
+    - 433
+    - 433
+  label: 說鄙惡語學處第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-10
+    span:
+    - body
+    - 441
+    - 441
+  label: 索供養學處第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-11
+    span:
+    - body
+    - 448
+    - 448
+  label: 媒嫁學處第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-12
+    span:
+    - body
+    - 496
+    - 496
+  label: 造小房學處第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-13
+    span:
+    - body
+    - 503
+    - 503
+  label: 造大寺學處第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-14
+    span:
+    - body
+    - 562
+    - 562
+  label: 無根謗學處第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-15
+    span:
+    - body
+    - 614
+    - 614
+  label: 假根謗學處第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-16
+    span:
+    - body
+    - 621
+    - 621
+  label: 破僧違諫學處第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-17
+    span:
+    - body
+    - 629
+    - 629
+  label: 助伴破僧違諫學處第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-18
+    span:
+    - body
+    - 640
+    - 640
+  label: 汙家違諫學處第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-19
+    span:
+    - body
+    - 649
+    - 649
+  label: 惡性違諫學處第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-20
+    span:
+    - body
+    - 658
+    - 658
+  label: 第三章　二不定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-21
+    span:
+    - body
+    - 665
+    - 665
+  label: 第四章　三十泥薩祇波逸底迦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-22
+    span:
+    - body
+    - 678
+    - 678
+  label: 有長衣不分別學處第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-23
+    span:
+    - body
+    - 798
+    - 798
+  label: 離三衣學處第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-24
+    span:
+    - body
+    - 865
+    - 865
+  label: 一月衣學處第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-25
+    span:
+    - body
+    - 872
+    - 872
+  label: 使非親尼浣故衣學處第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-26
+    span:
+    - body
+    - 1119
+    - 1119
+  label: 取非親尼衣學處第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-27
+    span:
+    - body
+    - 1128
+    - 1128
+  label: 從非親居士居士婦乞衣學處第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-28
+    span:
+    - body
+    - 1142
+    - 1142
+  label: 過量乞衣學處第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-29
+    span:
+    - body
+    - 1150
+    - 1150
+  label: 知俗人許與衣就乞學處第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-30
+    span:
+    - body
+    - 1162
+    - 1162
+  label: 勸共作衣學處第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-31
+    span:
+    - body
+    - 1170
+    - 1170
+  label: 過限索衣學處第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-32
+    span:
+    - body
+    - 1220
+    - 1220
+  label: 用野蠶絲作敷具學處第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-33
+    span:
+    - body
+    - 1232
+    - 1232
+  label: 用純黑羊毛作敷具學處第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-34
+    span:
+    - body
+    - 1245
+    - 1245
+  label: 過分數作敷具學處第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-35
+    span:
+    - body
+    - 1256
+    - 1256
+  label: 減六年作新敷具學處第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-36
+    span:
+    - body
+    - 1268
+    - 1268
+  label: 作新尼師但那不用故帖學處第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-37
+    span:
+    - body
+    - 1310
+    - 1310
+  label: 自擔羊毛過三踰膳那學處第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-38
+    span:
+    - body
+    - 1324
+    - 1324
+  label: 使非親尼治羊毛學處第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-39
+    span:
+    - body
+    - 1336
+    - 1336
+  label: 捉金銀等學處第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-40
+    span:
+    - body
+    - 1367
+    - 1367
+  label: 出息求利學處第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-41
+    span:
+    - body
+    - 1418
+    - 1418
+  label: 賣買學處第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-42
+    span:
+    - body
+    - 1476
+    - 1476
+  label: 畜長鉢過十日不分別學處第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-43
+    span:
+    - body
+    - 1503
+    - 1503
+  label: 乞鉢學處第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-44
+    span:
+    - body
+    - 1511
+    - 1511
+  label: 自乞縷使非親織師織作衣學處第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-45
+    span:
+    - body
+    - 1528
+    - 1528
+  label: 勸非親織師織衣學處第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-46
+    span:
+    - body
+    - 1541
+    - 1541
+  label: 奪衣學處第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-47
+    span:
+    - body
+    - 1549
+    - 1549
+  label: 過後畜急施衣學處第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-48
+    span:
+    - body
+    - 1561
+    - 1561
+  label: 在阿蘭若處過六夜離衣學處第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-49
+    span:
+    - body
+    - 1577
+    - 1577
+  label: 預前求過後用雨浴衣學處第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-50
+    span:
+    - body
+    - 1592
+    - 1592
+  label: 迴眾物入己學處第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-51
+    span:
+    - body
+    - 1896
+    - 1896
+  label: 服過七日藥學處第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-52
+    span:
+    - body
+    - 2036
+    - 2036
+  label: 第五章　九十波逸底迦法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-53
+    span:
+    - body
+    - 2046
+    - 2046
+  label: 故妄語學處第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-54
+    span:
+    - body
+    - 2636
+    - 2636
+  label: 毀訾語學處第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-55
+    span:
+    - body
+    - 2750
+    - 2750
+  label: 離間語學處第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-56
+    span:
+    - body
+    - 2810
+    - 2810
+  label: 發舉殄諍羯磨學處第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-57
+    span:
+    - body
+    - 2820
+    - 2820
+  label: 與女人說法過五六語學處第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-58
+    span:
+    - body
+    - 2861
+    - 2861
+  label: 與未近圓人同讀誦學處第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-59
+    span:
+    - body
+    - 2964
+    - 2964
+  label: 向未近圓人說他粗罪學處第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-60
+    span:
+    - body
+    - 3136
+    - 3136
+  label: 實得上人法向未近圓人說學處第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-61
+    span:
+    - body
+    - 3151
+    - 3151
+  label: 謗迴眾利物學處第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-62
+    span:
+    - body
+    - 3160
+    - 3160
+  label: 輕呵戒學處第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-63
+    span:
+    - body
+    - 3229
+    - 3229
+  label: 壞生種學處第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-64
+    span:
+    - body
+    - 3641
+    - 3641
+  label: 嫌毀輕賤學處第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-65
+    span:
+    - body
+    - 3681
+    - 3681
+  label: 違惱言教學處第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-66
+    span:
+    - body
+    - 4000
+    - 4000
+  label: 不舉敷具學處第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-67
+    span:
+    - body
+    - 4215
+    - 4215
+  label: 不舉草敷具學處第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-68
+    span:
+    - body
+    - 4225
+    - 4225
+  label: 牽他出僧房學處第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-69
+    span:
+    - body
+    - 4354
+    - 4354
+  label: 強惱觸他學處第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-70
+    span:
+    - body
+    - 4436
+    - 4436
+  label: 故放身坐臥脫脚牀學處第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-71
+    span:
+    - body
+    - 4449
+    - 4449
+  label: 用蟲水學處第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-72
+    span:
+    - body
+    - 4598
+    - 4598
+  label: 造大寺過限學處第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-73
+    span:
+    - body
+    - 4608
+    - 4608
+  label: 眾不差教授苾芻尼學處第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-74
+    span:
+    - body
+    - 4622
+    - 4622
+  label: 教授至日暮學處第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-75
+    span:
+    - body
+    - 4633
+    - 4633
+  label: 謗他為飲食故教授學處第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-76
+    span:
+    - body
+    - 4647
+    - 4647
+  label: 與非親尼衣學處第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-77
+    span:
+    - body
+    - 4658
+    - 4658
+  label: 與非親尼作衣學處第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-78
+    span:
+    - body
+    - 4670
+    - 4670
+  label: 與苾芻尼同道行學處第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-79
+    span:
+    - body
+    - 4705
+    - 4705
+  label: 與苾芻尼同乘一船學處第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-80
+    span:
+    - body
+    - 4733
+    - 4733
+  label: 獨與女人屏處坐學處第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-81
+    span:
+    - body
+    - 4746
+    - 4746
+  label: 獨與尼屏處坐學處第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-82
+    span:
+    - body
+    - 4758
+    - 4758
+  label: 知苾芻尼讚歎得食學處第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-83
+    span:
+    - body
+    - 4771
+    - 4771
+  label: 展轉食學處第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-84
+    span:
+    - body
+    - 4808
+    - 4808
+  label: 施一食過受學處第三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-85
+    span:
+    - body
+    - 4819
+    - 4819
+  label: 過三鉢受食學處第三十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-86
+    span:
+    - body
+    - 4830
+    - 4830
+  label: 足食學處第三十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-87
+    span:
+    - body
+    - 4893
+    - 4893
+  label: 勸足食學處第三十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-88
+    span:
+    - body
+    - 4902
+    - 4902
+  label: 別眾食學處第三十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-89
+    span:
+    - body
+    - 5066
+    - 5066
+  label: 非時食學處第三十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-90
+    span:
+    - body
+    - 5176
+    - 5176
+  label: 食曾觸食學處第三十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-91
+    span:
+    - body
+    - 5527
+    - 5527
+  label: 不受食學處第三十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-92
+    span:
+    - body
+    - 5623
+    - 5623
+  label: 索美食學處第四十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-93
+    span:
+    - body
+    - 5631
+    - 5631
+  label: 受用有蟲水學處第四十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-94
+    span:
+    - body
+    - 5743
+    - 5743
+  label: 有食家強坐學處第四十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-95
+    span:
+    - body
+    - 5754
+    - 5754
+  label: 有食家強立學處第四十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-96
+    span:
+    - body
+    - 5765
+    - 5765
+  label: 與無衣外道男女食學處第四十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-97
+    span:
+    - body
+    - 5894
+    - 5894
+  label: 觀軍學處第四十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-98
+    span:
+    - body
+    - 5902
+    - 5902
+  label: 軍中過二宿學處第四十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-99
+    span:
+    - body
+    - 5913
+    - 5913
+  label: 動亂兵軍學處第四十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-100
+    span:
+    - body
+    - 5923
+    - 5923
+  label: 打苾芻學處第四十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-101
+    span:
+    - body
+    - 5932
+    - 5932
+  label: 以手擬苾芻學處第四十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-102
+    span:
+    - body
+    - 6039
+    - 6039
+  label: 覆藏他粗罪學處第五十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-103
+    span:
+    - body
+    - 6060
+    - 6060
+  label: 共至俗家不與食學處第五十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-104
+    span:
+    - body
+    - 6073
+    - 6073
+  label: 觸火學處第五十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-105
+    span:
+    - body
+    - 6198
+    - 6198
+  label: 與欲已更遮學處第五十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-106
+    span:
+    - body
+    - 6209
+    - 6209
+  label: 與未近圓人同室宿過二夜學處第五十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-107
+    span:
+    - body
+    - 6290
+    - 6290
+  label: 不捨惡見違諫學處第五十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-108
+    span:
+    - body
+    - 6302
+    - 6302
+  label: 隨捨置人學處第五十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-109
+    span:
+    - body
+    - 6312
+    - 6312
+  label: 攝受惡見求寂學處第五十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-110
+    span:
+    - body
+    - 6324
+    - 6324
+  label: 著不壞色衣學處第五十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-111
+    span:
+    - body
+    - 6401
+    - 6401
+  label: 捉寶學處第五十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-112
+    span:
+    - body
+    - 6438
+    - 6438
+  label: 非時浴學處第六十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-113
+    span:
+    - body
+    - 6603
+    - 6603
+  label: 殺傍生學處第六十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-114
+    span:
+    - body
+    - 6654
+    - 6654
+  label: 故惱苾芻學處第六十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-115
+    span:
+    - body
+    - 6682
+    - 6682
+  label: 以指擊攊他學處第六十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-116
+    span:
+    - body
+    - 6693
+    - 6693
+  label: 水中戲學處第六十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-117
+    span:
+    - body
+    - 6702
+    - 6702
+  label: 與女人同室宿學處第六十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-118
+    span:
+    - body
+    - 6714
+    - 6714
+  label: 恐怖苾芻學處第六十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-119
+    span:
+    - body
+    - 6724
+    - 6724
+  label: 藏他衣鉢學處第六十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-120
+    span:
+    - body
+    - 6734
+    - 6734
+  label: 他寄衣不問主輒著學處第六十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-121
+    span:
+    - body
+    - 6748
+    - 6748
+  label: 以眾教罪謗清淨苾芻學處第六十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-122
+    span:
+    - body
+    - 6763
+    - 6763
+  label: 與女人同道行學處第七十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-123
+    span:
+    - body
+    - 6774
+    - 6774
+  label: 與賊同道行學處第七十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-124
+    span:
+    - body
+    - 6785
+    - 6785
+  label: 與減年者受近圓學處第七十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-125
+    span:
+    - body
+    - 7303
+    - 7303
+  label: 壞生地學處第七十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-126
+    span:
+    - body
+    - 7423
+    - 7423
+  label: 過四月索食學處第七十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-127
+    span:
+    - body
+    - 7434
+    - 7434
+  label: 遮傳教學處第七十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-128
+    span:
+    - body
+    - 7443
+    - 7443
+  label: 默聽評論學處第七十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-129
+    span:
+    - body
+    - 7537
+    - 7537
+  label: 不與欲默然起去學處第七十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-130
+    span:
+    - body
+    - 7550
+    - 7550
+  label: 不恭敬學處第七十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-131
+    span:
+    - body
+    - 7750
+    - 7750
+  label: 飲酒學處第七十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-132
+    span:
+    - body
+    - 7758
+    - 7758
+  label: 非時入聚落不囑苾芻學處第八十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-133
+    span:
+    - body
+    - 7783
+    - 7783
+  label: 食前食後詣餘家學處第八十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-134
+    span:
+    - body
+    - 7796
+    - 7796
+  label: 入王宮學處第八十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-135
+    span:
+    - body
+    - 7805
+    - 7805
+  label: 不攝耳聽戒作不知語學處第八十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-136
+    span:
+    - body
+    - 7873
+    - 7873
+  label: 用牙角作針筒學處第八十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-137
+    span:
+    - body
+    - 7885
+    - 7885
+  label: 過量作牀學處第八十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-138
+    span:
+    - body
+    - 7920
+    - 7920
+  label: 草木綿貯牀學處第八十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-139
+    span:
+    - body
+    - 7931
+    - 7931
+  label: 過量作尼師但那學處第八十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-140
+    span:
+    - body
+    - 8085
+    - 8085
+  label: 過量作覆瘡衣學處第八十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-141
+    span:
+    - body
+    - 8097
+    - 8097
+  label: 過量作雨浴衣學處第八十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-142
+    span:
+    - body
+    - 8109
+    - 8109
+  label: 與佛等過量作衣學處第九十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-143
+    span:
+    - body
+    - 8121
+    - 8121
+  label: 第六章　四波羅底提舍尼法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-144
+    span:
+    - body
+    - 8132
+    - 8132
+  label: 從非親尼受食學處第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-145
+    span:
+    - body
+    - 8142
+    - 8142
+  label: 受尼指授食學處第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-146
+    span:
+    - body
+    - 8151
+    - 8151
+  label: 學家受食學處第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-147
+    span:
+    - body
+    - 8159
+    - 8159
+  label: 阿蘭若住處外受食學處第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-148
+    span:
+    - body
+    - 8171
+    - 8171
+  label: 第七章　眾學法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-149
+    span:
+    - body
+    - 8817
+    - 8817
+  label: 第八章　七滅諍法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0295_G_001-mulu-150
+    span:
+    - body
+    - 9295
+    - 9295
+  label: 附錄
+  type: mulu
+  level: 1
+hash: sha256:7c8c8c25cb75eb643c683c8e388f1eb2e235f0d07bb0e74b5a326450cab71954
